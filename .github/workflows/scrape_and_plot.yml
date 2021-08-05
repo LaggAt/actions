@@ -1,4 +1,4 @@
-name: get data
+name: scrape and plot
 
 on:
   push:
@@ -26,6 +26,9 @@ jobs:
     - name: Fetch latest data
       run: |-
         scrapy runspider goveestats_installations.py -o output/goveestats_installations.jsonl -t jsonlines
+    - name: Create plots
+      run: |-
+        goveestats_installations_plot.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
