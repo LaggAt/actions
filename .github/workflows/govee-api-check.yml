@@ -33,9 +33,9 @@ jobs:
         GOVEE_API_KEY: ${{ secrets.GOVEE_API_KEY }}
       run: |-
         python govee_api_up.py
-    # - name: Create plots
-    #   run: |-
-    #     python goveestats_installations_plot.py
+    - name: Create plots
+      run: |-
+        python govee_api_up_plot.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
