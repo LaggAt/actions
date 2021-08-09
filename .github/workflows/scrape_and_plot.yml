@@ -14,6 +14,9 @@ jobs:
         python-version: [ 3.8 ]
 
     steps:
+    - name: mask secrets in logs
+      run: |
+        echo "::add-mask::${{ secrets.LOG_MASKS }}"
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
