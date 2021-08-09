@@ -7,6 +7,7 @@
 
 * Govee integration 
   * ![installations per version](https://raw.githubusercontent.com/LaggAt/actions/main/output/goveestats_installations.png)
+  * ![API status](https://raw.githubusercontent.com/LaggAt/actions/main/output/govee-api-up.png)
 
 # links
 
