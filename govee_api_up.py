@@ -13,6 +13,7 @@ from govee_api_laggat import Govee, GoveeNoLearningStorage
 
 async def run():
     result = await check_connection(os.environ['GOVEE_API_KEY'], GoveeNoLearningStorage())
+    print(repr(result))
     persist(result)
 
 async def check_connection(api_key, learning_storage):
