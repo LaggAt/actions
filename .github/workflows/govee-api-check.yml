@@ -13,6 +13,8 @@ jobs:
       matrix:
         python-version: [ 3.8 ]
 
+    concurrency: 'only_one_scraper'
+
     steps:
     - name: mask secrets in logs
       run: |
