@@ -20,3 +20,4 @@
 {"timestamp": "2021-08-09 17:52:22", "get_devices": {"success": true, "ping": 79, "error": null}, "get_states": {"success": false, "ping": 22, "error": "API-Error 500: {\"message\":\"service is busy please try again later\",\"status\":500}"}}
 {"timestamp": "2021-08-09 18:21:03", "get_devices": {"success": true, "ping": 235, "error": null}, "get_states": {"success": false, "ping": 58, "error": "API-Error 500: {\"message\":\"service is busy please try again later\",\"status\":500}"}}
 {"timestamp": "2021-08-09 18:48:38", "get_devices": {"success": true, "ping": 430, "error": null}, "get_states": {"success": false, "ping": 86, "error": "API-Error 500: {\"message\":\"service is busy please try again later\",\"status\":500}"}}
+{"timestamp": "2021-08-09 19:14:14", "get_devices": {"success": true, "ping": 82, "error": null}, "get_states": {"success": false, "ping": 15, "error": "API-Error 500: {\"message\":\"service is busy please try again later\",\"status\":500}"}}
