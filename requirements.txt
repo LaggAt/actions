@@ -1,3 +1,4 @@
+govee_api_laggat>=0.2.1
 matplotlib==3.4.2
 numpy==1.21.1
 Scrapy==2.3.0
