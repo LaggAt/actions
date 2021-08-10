@@ -3,16 +3,17 @@
 # This software is released under the MIT License.
 # https://opensource.org/licenses/MIT
 
-import datetime
+from datetime import datetime, timedelta
 from jsonl import load_jsonl
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
-
 import numpy as np
 import pandas as pd
 
+VIEW_ERROR_DAYS = 7
+
 def parseDate(s: str) -> datetime:
-    return datetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S')
+    return datetime.strptime(s, '%Y-%m-%d %H:%M:%S')
 
 def combine_ping_success(get_block):
     return get_block['ping'] * (1 if get_block['success'] else -1)
@@ -42,6 +43,19 @@ def graph():
     df = pd.DataFrame(data)
     print(df)
 
+    # prepare strings for last error no more than VIEW_ERROR_DAYS days ago
+    relevant_errors = df.where(df.get_devices_success == False).where(df.timestamp > datetime.utcnow() - timedelta(days=VIEW_ERROR_DAYS))
+    get_devices_last_error_info = 'get_devices(): No recorded error in {0} days.'.format(VIEW_ERROR_DAYS)
+    if relevant_errors.last_valid_index():
+        err = relevant_errors.iloc[relevant_errors.last_valid_index()]
+        get_devices_last_error_info = 'get_devices() last recorded error at {0}: {1}'.format(err.timestamp, err.get_devices_error)
+
+    relevant_errors = df.where(df.get_states_success == False).where(df.timestamp > datetime.utcnow() - timedelta(days=VIEW_ERROR_DAYS))
+    get_states_last_error_info = 'get_states(): No recorded error in {0} days.'.format(VIEW_ERROR_DAYS)
+    if relevant_errors.last_valid_index():
+        err = relevant_errors.iloc[relevant_errors.last_valid_index()]
+        get_states_last_error_info = 'get_states() last recorded error at {0}: {1}'.format(err.timestamp, err.get_states_error)
+
     # plot
     fig, ax = plt.subplots()
     
@@ -54,7 +68,7 @@ def graph():
     ax.step(
         df.timestamp,
         np.where(df.get_devices_success == False, df.get_devices_ping, np.NaN),
-        'ro',
+        'go',
         label='get_devices() Error'
     )
 
@@ -67,7 +81,7 @@ def graph():
     ax.step(
         df.timestamp,
         np.where(df.get_states_success == False, df.get_states_ping, np.NaN),
-        'mo',
+        'bo',
         label='get_states() Error'
     )
 
@@ -79,7 +93,8 @@ def graph():
     ax.set_ylabel('Ping (ms)')
     # titles
     plt.text(x=.5, y=.94, s='Govee API: is it working?', fontsize=18, ha="center", transform=fig.transFigure)
-    plt.text(x=.5, y=.88, s='Raw data: https://tinyurl.com/yzo5dnuh', fontsize=12, ha="center", transform=fig.transFigure)
+    plt.text(x=.04, y=.90, s=get_devices_last_error_info, fontsize=8, ha="left", transform=fig.transFigure)
+    plt.text(x=.04, y=.87, s=get_states_last_error_info, fontsize=8, ha="left", transform=fig.transFigure)
     plt.subplots_adjust(top=0.85, wspace=0.1)
     # source info
     plt.text(x=.04, y=.045, s='data source: Measured on Govee API, using https://github.com/LaggAt/python-govee-api', fontsize=8, ha="left", transform=fig.transFigure)
