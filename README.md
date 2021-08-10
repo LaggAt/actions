@@ -5,7 +5,9 @@
 
 # plots
 
-## Govee integration 
+## Govee integration (Home Assistant)
+
+https://github.com/LaggAt/hacs-govee#govee-integration
 
   * ![installations per version](https://raw.githubusercontent.com/LaggAt/actions/main/output/goveestats_installations.png)
   * ![API status](https://raw.githubusercontent.com/LaggAt/actions/main/output/govee-api-up.png)
