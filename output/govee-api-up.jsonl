@@ -703,3 +703,4 @@
 {"timestamp": "2021-08-20 23:39:38", "get_devices": {"success": true, "ping": 112, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
 {"timestamp": "2021-08-20 23:52:21", "get_devices": {"success": true, "ping": 229, "error": null}, "get_states": {"success": true, "ping": 228, "error": null}}
 {"timestamp": "2021-08-21 00:56:12", "get_devices": {"success": true, "ping": 434, "error": null}, "get_states": {"success": true, "ping": 95, "error": null}}
+{"timestamp": "2021-08-21 01:57:40", "get_devices": {"success": true, "ping": 286, "error": null}, "get_states": {"success": true, "ping": 69, "error": null}}
