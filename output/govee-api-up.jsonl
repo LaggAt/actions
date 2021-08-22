@@ -809,3 +809,4 @@
 {"timestamp": "2021-08-22 17:04:49", "get_devices": {"success": true, "ping": 259, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
 {"timestamp": "2021-08-22 17:34:03", "get_devices": {"success": true, "ping": 386, "error": null}, "get_states": {"success": true, "ping": 89, "error": null}}
 {"timestamp": "2021-08-22 17:52:31", "get_devices": {"success": true, "ping": 516, "error": null}, "get_states": {"success": true, "ping": 155, "error": null}}
+{"timestamp": "2021-08-22 18:21:11", "get_devices": {"success": true, "ping": 334, "error": null}, "get_states": {"success": true, "ping": 132, "error": null}}
