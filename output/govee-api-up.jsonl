@@ -800,3 +800,4 @@
 {"timestamp": "2021-08-22 13:31:00", "get_devices": {"success": true, "ping": 184, "error": null}, "get_states": {"success": true, "ping": 45, "error": null}}
 {"timestamp": "2021-08-22 13:52:22", "get_devices": {"success": true, "ping": 227, "error": null}, "get_states": {"success": true, "ping": 36, "error": null}}
 {"timestamp": "2021-08-22 14:16:12", "get_devices": {"success": true, "ping": 582, "error": null}, "get_states": {"success": true, "ping": 93, "error": null}}
+{"timestamp": "2021-08-22 14:37:28", "get_devices": {"success": true, "ping": 344, "error": null}, "get_states": {"success": true, "ping": 93, "error": null}}
