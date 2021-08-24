@@ -940,3 +940,4 @@
 {"timestamp": "2021-08-24 19:38:01", "get_devices": {"success": true, "ping": 192, "error": null}, "get_states": {"success": true, "ping": 152, "error": null}}
 {"timestamp": "2021-08-24 19:52:39", "get_devices": {"success": true, "ping": 225, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
 {"timestamp": "2021-08-24 20:19:17", "get_devices": {"success": true, "ping": 215, "error": null}, "get_states": {"success": true, "ping": 51, "error": null}}
+{"timestamp": "2021-08-24 20:40:00", "get_devices": {"success": true, "ping": 237, "error": null}, "get_states": {"success": true, "ping": 63, "error": null}}
