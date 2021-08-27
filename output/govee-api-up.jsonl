@@ -1111,3 +1111,4 @@
 {"timestamp": "2021-08-27 13:52:24", "get_devices": {"success": true, "ping": 394, "error": null}, "get_states": {"success": true, "ping": 85, "error": null}}
 {"timestamp": "2021-08-27 14:17:01", "get_devices": {"success": true, "ping": 202, "error": null}, "get_states": {"success": true, "ping": 45, "error": null}}
 {"timestamp": "2021-08-27 14:38:10", "get_devices": {"success": true, "ping": 459, "error": null}, "get_states": {"success": true, "ping": 147, "error": null}}
+{"timestamp": "2021-08-27 14:52:39", "get_devices": {"success": true, "ping": 105, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
