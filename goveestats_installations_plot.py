@@ -3,16 +3,19 @@
 # This software is released under the MIT License.
 # https://opensource.org/licenses/MIT
 
-import datetime
+from datetime import datetime, date, timedelta
 from jsonl import load_jsonl
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 
+VIEW_DAYS = 31
+
 def parseDate(s: str) -> datetime:
-    return datetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S').date()
+    return datetime.strptime(s, '%Y-%m-%d %H:%M:%S').date()
 
 
 def graph():
+    dt_start = datetime.utcnow() - timedelta(days=VIEW_DAYS)
     jsonl_filename = 'output/goveestats_installations.jsonl'
     png_filename = 'output/goveestats_installations.png'
     raw_data = load_jsonl(jsonl_filename)
@@ -21,9 +24,11 @@ def graph():
     versions = []
     # only first data row per day
     data = []
-    last_date = datetime.date.min
+    last_date = date.min
     for row in raw_data:
         d = parseDate(row['timestamp'])
+        if(d < dt_start.date()):
+            continue
         if d > last_date:
             last_date = d
             data.append(row)
