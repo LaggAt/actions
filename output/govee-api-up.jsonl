@@ -1947,3 +1947,4 @@
 {"timestamp": "2021-09-09 20:52:45", "get_devices": {"success": true, "ping": 395, "error": null}, "get_states": {"success": true, "ping": 86, "error": null}}
 {"timestamp": "2021-09-09 21:15:59", "get_devices": {"success": true, "ping": 392, "error": null}, "get_states": {"success": true, "ping": 80, "error": null}}
 {"timestamp": "2021-09-09 21:38:57", "get_devices": {"success": true, "ping": 247, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
+{"timestamp": "2021-09-09 21:52:42", "get_devices": {"success": true, "ping": 105, "error": null}, "get_states": {"success": true, "ping": 27, "error": null}}
