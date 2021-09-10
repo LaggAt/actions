@@ -1988,3 +1988,4 @@
 {"timestamp": "2021-09-10 13:01:54", "get_devices": {"success": true, "ping": 669, "error": null}, "get_states": {"success": true, "ping": 214, "error": null}}
 {"timestamp": "2021-09-10 13:33:56", "get_devices": {"success": true, "ping": 480, "error": null}, "get_states": {"success": true, "ping": 99, "error": null}}
 {"timestamp": "2021-09-10 13:52:30", "get_devices": {"success": true, "ping": 472, "error": null}, "get_states": {"success": true, "ping": 92, "error": null}}
+{"timestamp": "2021-09-10 14:17:12", "get_devices": {"success": true, "ping": 361, "error": null}, "get_states": {"success": true, "ping": 185, "error": null}}
