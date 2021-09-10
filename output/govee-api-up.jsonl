@@ -1972,3 +1972,4 @@
 {"timestamp": "2021-09-10 07:37:41", "get_devices": {"success": true, "ping": 205, "error": null}, "get_states": {"success": true, "ping": 136, "error": null}}
 {"timestamp": "2021-09-10 07:52:44", "get_devices": {"success": true, "ping": 82, "error": null}, "get_states": {"success": true, "ping": 11, "error": null}}
 {"timestamp": "2021-09-10 08:21:15", "get_devices": {"success": true, "ping": 298, "error": null}, "get_states": {"success": true, "ping": 80, "error": null}}
+{"timestamp": "2021-09-10 08:42:23", "get_devices": {"success": true, "ping": 407, "error": null}, "get_states": {"success": true, "ping": 83, "error": null}}
