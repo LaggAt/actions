@@ -1983,3 +1983,4 @@
 {"timestamp": "2021-09-10 11:15:31", "get_devices": {"success": true, "ping": 630, "error": null}, "get_states": {"success": true, "ping": 174, "error": null}}
 {"timestamp": "2021-09-10 11:28:16", "get_devices": {"success": true, "ping": 235, "error": null}, "get_states": {"success": true, "ping": 50, "error": null}}
 {"timestamp": "2021-09-10 11:39:50", "get_devices": {"success": true, "ping": 108, "error": null}, "get_states": {"success": true, "ping": 35, "error": null}}
+{"timestamp": "2021-09-10 11:52:38", "get_devices": {"success": true, "ping": 418, "error": null}, "get_states": {"success": true, "ping": 86, "error": null}}
