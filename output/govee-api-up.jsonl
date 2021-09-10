@@ -2010,3 +2010,4 @@
 {"timestamp": "2021-09-10 20:52:36", "get_devices": {"success": true, "ping": 316, "error": null}, "get_states": {"success": true, "ping": 21, "error": null}}
 {"timestamp": "2021-09-10 21:15:42", "get_devices": {"success": true, "ping": 378, "error": null}, "get_states": {"success": true, "ping": 157, "error": null}}
 {"timestamp": "2021-09-10 21:28:15", "get_devices": {"success": true, "ping": 308, "error": null}, "get_states": {"success": true, "ping": 114, "error": null}}
+{"timestamp": "2021-09-10 21:40:49", "get_devices": {"success": true, "ping": 217, "error": null}, "get_states": {"success": true, "ping": 42, "error": null}}
