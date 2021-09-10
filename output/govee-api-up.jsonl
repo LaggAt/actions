@@ -2013,3 +2013,4 @@
 {"timestamp": "2021-09-10 21:40:49", "get_devices": {"success": true, "ping": 217, "error": null}, "get_states": {"success": true, "ping": 42, "error": null}}
 {"timestamp": "2021-09-10 21:52:51", "get_devices": {"success": true, "ping": 612, "error": null}, "get_states": {"success": true, "ping": 98, "error": null}}
 {"timestamp": "2021-09-10 22:18:29", "get_devices": {"success": true, "ping": 352, "error": null}, "get_states": {"success": true, "ping": 138, "error": null}}
+{"timestamp": "2021-09-10 22:40:13", "get_devices": {"success": true, "ping": 341, "error": null}, "get_states": {"success": true, "ping": 51, "error": null}}
