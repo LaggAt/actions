@@ -1995,3 +1995,4 @@
 {"timestamp": "2021-09-10 15:44:18", "get_devices": {"success": true, "ping": 132, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
 {"timestamp": "2021-09-10 15:56:12", "get_devices": {"success": true, "ping": 421, "error": null}, "get_states": {"success": true, "ping": 250, "error": null}}
 {"timestamp": "2021-09-10 16:30:20", "get_devices": {"success": true, "ping": 229, "error": null}, "get_states": {"success": true, "ping": 174, "error": null}}
+{"timestamp": "2021-09-10 16:59:55", "get_devices": {"success": true, "ping": 120, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
