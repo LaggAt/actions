@@ -1965,3 +1965,4 @@
 {"timestamp": "2021-09-10 04:51:59", "get_devices": {"success": true, "ping": 598, "error": null}, "get_states": {"success": true, "ping": 80, "error": null}}
 {"timestamp": "2021-09-10 05:16:27", "get_devices": {"success": true, "ping": 312, "error": null}, "get_states": {"success": true, "ping": 67, "error": null}}
 {"timestamp": "2021-09-10 05:37:33", "get_devices": {"success": true, "ping": 70, "error": null}, "get_states": {"success": true, "ping": 11, "error": null}}
+{"timestamp": "2021-09-10 05:52:40", "get_devices": {"success": true, "ping": 410, "error": null}, "get_states": {"success": true, "ping": 98, "error": null}}
