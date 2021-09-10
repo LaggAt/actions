@@ -1993,3 +1993,4 @@
 {"timestamp": "2021-09-10 14:52:23", "get_devices": {"success": true, "ping": 193, "error": null}, "get_states": {"success": true, "ping": 110, "error": null}}
 {"timestamp": "2021-09-10 15:19:39", "get_devices": {"success": true, "ping": 120, "error": null}, "get_states": {"success": true, "ping": 64, "error": null}}
 {"timestamp": "2021-09-10 15:44:18", "get_devices": {"success": true, "ping": 132, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
+{"timestamp": "2021-09-10 15:56:12", "get_devices": {"success": true, "ping": 421, "error": null}, "get_states": {"success": true, "ping": 250, "error": null}}
