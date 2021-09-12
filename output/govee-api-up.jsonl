@@ -2105,3 +2105,4 @@
 {"timestamp": "2021-09-12 09:17:17", "get_devices": {"success": true, "ping": 404, "error": null}, "get_states": {"success": true, "ping": 118, "error": null}}
 {"timestamp": "2021-09-12 09:39:54", "get_devices": {"success": true, "ping": 149, "error": null}, "get_states": {"success": true, "ping": 160, "error": null}}
 {"timestamp": "2021-09-12 09:52:41", "get_devices": {"success": true, "ping": 381, "error": null}, "get_states": {"success": true, "ping": 172, "error": null}}
+{"timestamp": "2021-09-12 10:19:56", "get_devices": {"success": true, "ping": 356, "error": null}, "get_states": {"success": true, "ping": 336, "error": null}}
