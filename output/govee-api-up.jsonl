@@ -2500,3 +2500,4 @@
 {"timestamp": "2021-09-18 15:54:37", "get_devices": {"success": true, "ping": 254, "error": null}, "get_states": {"success": true, "ping": 103, "error": null}}
 {"timestamp": "2021-09-18 16:27:14", "get_devices": {"success": true, "ping": 404, "error": null}, "get_states": {"success": true, "ping": 295, "error": null}}
 {"timestamp": "2021-09-18 16:59:18", "get_devices": {"success": true, "ping": 496, "error": null}, "get_states": {"success": true, "ping": 120, "error": null}}
+{"timestamp": "2021-09-18 17:23:25", "get_devices": {"success": true, "ping": 96, "error": null}, "get_states": {"success": true, "ping": 15, "error": null}}
