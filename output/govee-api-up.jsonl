@@ -2935,3 +2935,4 @@
 {"timestamp": "2021-09-25 12:59:25", "get_devices": {"success": true, "ping": 411, "error": null}, "get_states": {"success": true, "ping": 112, "error": null}}
 {"timestamp": "2021-09-25 13:25:29", "get_devices": {"success": true, "ping": 237, "error": null}, "get_states": {"success": true, "ping": 43, "error": null}}
 {"timestamp": "2021-09-25 13:39:08", "get_devices": {"success": true, "ping": 276, "error": null}, "get_states": {"success": true, "ping": 37, "error": null}}
+{"timestamp": "2021-09-25 13:52:36", "get_devices": {"success": true, "ping": 617, "error": null}, "get_states": {"success": true, "ping": 136, "error": null}}
