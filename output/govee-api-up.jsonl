@@ -3113,3 +3113,4 @@
 {"timestamp": "2021-09-28 08:22:04", "get_devices": {"success": true, "ping": 721, "error": null}, "get_states": {"success": true, "ping": 165, "error": null}}
 {"timestamp": "2021-09-28 08:42:50", "get_devices": {"success": true, "ping": 254, "error": null}, "get_states": {"success": true, "ping": 251, "error": null}}
 {"timestamp": "2021-09-28 08:54:39", "get_devices": {"success": true, "ping": 574, "error": null}, "get_states": {"success": true, "ping": 137, "error": null}}
+{"timestamp": "2021-09-28 09:17:57", "get_devices": {"success": true, "ping": 402, "error": null}, "get_states": {"success": true, "ping": 83, "error": null}}
