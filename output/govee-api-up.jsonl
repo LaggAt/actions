@@ -3365,3 +3365,4 @@
 {"timestamp": "2021-10-02 09:17:23", "get_devices": {"success": true, "ping": 100, "error": null}, "get_states": {"success": true, "ping": 20, "error": null}}
 {"timestamp": "2021-10-02 09:40:01", "get_devices": {"success": true, "ping": 223, "error": null}, "get_states": {"success": true, "ping": 91, "error": null}}
 {"timestamp": "2021-10-02 09:52:14", "get_devices": {"success": true, "ping": 99, "error": null}, "get_states": {"success": true, "ping": 134, "error": null}}
+{"timestamp": "2021-10-02 10:20:10", "get_devices": {"success": true, "ping": 223, "error": null}, "get_states": {"success": true, "ping": 402, "error": null}}
