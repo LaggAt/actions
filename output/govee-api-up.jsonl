@@ -3445,3 +3445,4 @@
 {"timestamp": "2021-10-03 13:52:33", "get_devices": {"success": true, "ping": 197, "error": null}, "get_states": {"success": true, "ping": 61, "error": null}}
 {"timestamp": "2021-10-03 14:16:28", "get_devices": {"success": true, "ping": 242, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
 {"timestamp": "2021-10-03 14:37:36", "get_devices": {"success": true, "ping": 347, "error": null}, "get_states": {"success": true, "ping": 90, "error": null}}
+{"timestamp": "2021-10-03 14:52:33", "get_devices": {"success": true, "ping": 420, "error": null}, "get_states": {"success": true, "ping": 485, "error": null}}
