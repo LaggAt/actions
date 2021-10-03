@@ -3433,3 +3433,4 @@
 {"timestamp": "2021-10-03 09:52:24", "get_devices": {"success": true, "ping": 228, "error": null}, "get_states": {"success": true, "ping": 49, "error": null}}
 {"timestamp": "2021-10-03 10:20:23", "get_devices": {"success": true, "ping": 103, "error": null}, "get_states": {"success": true, "ping": 49, "error": null}}
 {"timestamp": "2021-10-03 10:41:16", "get_devices": {"success": true, "ping": 397, "error": null}, "get_states": {"success": true, "ping": 220, "error": null}}
+{"timestamp": "2021-10-03 10:52:58", "get_devices": {"success": true, "ping": 316, "error": null}, "get_states": {"success": true, "ping": 413, "error": null}}
