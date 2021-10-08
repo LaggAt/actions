@@ -3729,3 +3729,4 @@
 {"timestamp": "2021-10-08 03:19:29", "get_devices": {"success": true, "ping": 288, "error": null}, "get_states": {"success": true, "ping": 69, "error": null}}
 {"timestamp": "2021-10-08 03:41:47", "get_devices": {"success": true, "ping": 216, "error": null}, "get_states": {"success": true, "ping": 51, "error": null}}
 {"timestamp": "2021-10-08 03:53:41", "get_devices": {"success": true, "ping": 270, "error": null}, "get_states": {"success": true, "ping": 53, "error": null}}
+{"timestamp": "2021-10-08 04:24:19", "get_devices": {"success": true, "ping": 253, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
