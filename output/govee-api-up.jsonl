@@ -3829,3 +3829,4 @@
 {"timestamp": "2021-10-09 17:24:52", "get_devices": {"success": true, "ping": 409, "error": null}, "get_states": {"success": true, "ping": 119, "error": null}}
 {"timestamp": "2021-10-09 17:40:59", "get_devices": {"success": true, "ping": 267, "error": null}, "get_states": {"success": true, "ping": 78, "error": null}}
 {"timestamp": "2021-10-09 17:52:48", "get_devices": {"success": true, "ping": 278, "error": null}, "get_states": {"success": true, "ping": 299, "error": null}}
+{"timestamp": "2021-10-09 18:20:44", "get_devices": {"success": true, "ping": 207, "error": null}, "get_states": {"success": true, "ping": 46, "error": null}}
