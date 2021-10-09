@@ -3801,3 +3801,4 @@
 {"timestamp": "2021-10-09 07:37:39", "get_devices": {"success": true, "ping": 408, "error": null}, "get_states": {"success": true, "ping": 139, "error": null}}
 {"timestamp": "2021-10-09 07:52:42", "get_devices": {"success": true, "ping": 298, "error": null}, "get_states": {"success": true, "ping": 55, "error": null}}
 {"timestamp": "2021-10-09 08:21:04", "get_devices": {"success": true, "ping": 140, "error": null}, "get_states": {"success": true, "ping": 68, "error": null}}
+{"timestamp": "2021-10-09 08:42:44", "get_devices": {"success": true, "ping": 289, "error": null}, "get_states": {"success": true, "ping": 87, "error": null}}
