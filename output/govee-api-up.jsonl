@@ -4038,3 +4038,4 @@
 {"timestamp": "2021-10-12 22:52:21", "get_devices": {"success": true, "ping": 95, "error": null}, "get_states": {"success": true, "ping": 11, "error": null}}
 {"timestamp": "2021-10-12 23:18:58", "get_devices": {"success": true, "ping": 162, "error": null}, "get_states": {"success": true, "ping": 59, "error": null}}
 {"timestamp": "2021-10-12 23:39:49", "get_devices": {"success": true, "ping": 174, "error": null}, "get_states": {"success": true, "ping": 297, "error": null}}
+{"timestamp": "2021-10-12 23:52:22", "get_devices": {"success": true, "ping": 85, "error": null}, "get_states": {"success": true, "ping": 21, "error": null}}
