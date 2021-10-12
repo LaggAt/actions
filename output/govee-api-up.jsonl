@@ -4010,3 +4010,4 @@
 {"timestamp": "2021-10-12 12:30:22", "get_devices": {"success": true, "ping": 660, "error": null}, "get_states": {"success": true, "ping": 260, "error": null}}
 {"timestamp": "2021-10-12 13:01:36", "get_devices": {"success": true, "ping": 677, "error": null}, "get_states": {"success": true, "ping": 211, "error": null}}
 {"timestamp": "2021-10-12 13:32:01", "get_devices": {"success": true, "ping": 684, "error": null}, "get_states": {"success": true, "ping": 83, "error": null}}
+{"timestamp": "2021-10-12 13:52:35", "get_devices": {"success": true, "ping": 88, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
