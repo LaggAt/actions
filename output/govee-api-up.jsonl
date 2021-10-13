@@ -4069,3 +4069,4 @@
 {"timestamp": "2021-10-13 11:28:43", "get_devices": {"success": true, "ping": 497, "error": null}, "get_states": {"success": true, "ping": 195, "error": null}}
 {"timestamp": "2021-10-13 11:40:27", "get_devices": {"success": true, "ping": 333, "error": null}, "get_states": {"success": true, "ping": 68, "error": null}}
 {"timestamp": "2021-10-13 11:52:29", "get_devices": {"success": true, "ping": 200, "error": null}, "get_states": {"success": true, "ping": 97, "error": null}}
+{"timestamp": "2021-10-13 12:30:03", "get_devices": {"success": true, "ping": 280, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
