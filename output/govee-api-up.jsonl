@@ -4141,3 +4141,4 @@
 {"timestamp": "2021-10-14 15:44:23", "get_devices": {"success": true, "ping": 451, "error": null}, "get_states": {"success": true, "ping": 108, "error": null}}
 {"timestamp": "2021-10-14 15:56:08", "get_devices": {"success": true, "ping": 619, "error": null}, "get_states": {"success": true, "ping": 246, "error": null}}
 {"timestamp": "2021-10-14 16:29:42", "get_devices": {"success": true, "ping": 206, "error": null}, "get_states": {"success": true, "ping": 33, "error": null}}
+{"timestamp": "2021-10-14 17:01:20", "get_devices": {"success": true, "ping": 199, "error": null}, "get_states": {"success": true, "ping": 42, "error": null}}
