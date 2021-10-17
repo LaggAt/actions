@@ -4315,3 +4315,4 @@
 {"timestamp": "2021-10-17 11:15:02", "get_devices": {"success": true, "ping": 206, "error": null}, "get_states": {"success": true, "ping": 43, "error": null}}
 {"timestamp": "2021-10-17 11:27:49", "get_devices": {"success": true, "ping": 363, "error": null}, "get_states": {"success": true, "ping": 183, "error": null}}
 {"timestamp": "2021-10-17 11:39:37", "get_devices": {"success": true, "ping": 370, "error": null}, "get_states": {"success": true, "ping": 102, "error": null}}
+{"timestamp": "2021-10-17 11:52:41", "get_devices": {"success": true, "ping": 588, "error": null}, "get_states": {"success": true, "ping": 102, "error": null}}
