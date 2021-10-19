@@ -4425,3 +4425,4 @@
 {"timestamp": "2021-10-19 05:37:39", "get_devices": {"success": true, "ping": 585, "error": null}, "get_states": {"success": true, "ping": 280, "error": null}}
 {"timestamp": "2021-10-19 05:52:45", "get_devices": {"success": true, "ping": 284, "error": null}, "get_states": {"success": true, "ping": 78, "error": null}}
 {"timestamp": "2021-10-19 06:22:45", "get_devices": {"success": true, "ping": 478, "error": null}, "get_states": {"success": true, "ping": 221, "error": null}}
+{"timestamp": "2021-10-19 06:47:54", "get_devices": {"success": true, "ping": 604, "error": null}, "get_states": {"success": true, "ping": 221, "error": null}}
