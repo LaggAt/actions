@@ -4518,3 +4518,4 @@
 {"timestamp": "2021-10-20 17:36:14", "get_devices": {"success": true, "ping": 536, "error": null}, "get_states": {"success": true, "ping": 87, "error": null}}
 {"timestamp": "2021-10-20 17:52:37", "get_devices": {"success": true, "ping": 497, "error": null}, "get_states": {"success": true, "ping": 109, "error": null}}
 {"timestamp": "2021-10-20 18:21:36", "get_devices": {"success": true, "ping": 451, "error": null}, "get_states": {"success": true, "ping": 157, "error": null}}
+{"timestamp": "2021-10-20 18:45:23", "get_devices": {"success": true, "ping": 321, "error": null}, "get_states": {"success": true, "ping": 75, "error": null}}
