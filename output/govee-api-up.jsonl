@@ -4953,3 +4953,4 @@
 {"timestamp": "2021-10-27 19:27:14", "get_devices": {"success": true, "ping": 1394, "error": null}, "get_states": {"success": true, "ping": 760, "error": null}}
 {"timestamp": "2021-10-27 19:39:15", "get_devices": {"success": true, "ping": 440, "error": null}, "get_states": {"success": true, "ping": 96, "error": null}}
 {"timestamp": "2021-10-27 19:52:53", "get_devices": {"success": true, "ping": 604, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
+{"timestamp": "2021-10-27 20:19:49", "get_devices": {"success": true, "ping": 105, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
