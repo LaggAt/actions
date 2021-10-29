@@ -5085,3 +5085,4 @@
 {"timestamp": "2021-10-29 22:40:59", "get_devices": {"success": true, "ping": 539, "error": null}, "get_states": {"success": true, "ping": 227, "error": null}}
 {"timestamp": "2021-10-29 22:52:37", "get_devices": {"success": true, "ping": 56, "error": null}, "get_states": {"success": true, "ping": 66, "error": null}}
 {"timestamp": "2021-10-29 23:19:59", "get_devices": {"success": true, "ping": 587, "error": null}, "get_states": {"success": true, "ping": 103, "error": null}}
+{"timestamp": "2021-10-29 23:40:44", "get_devices": {"success": true, "ping": 215, "error": null}, "get_states": {"success": true, "ping": 48, "error": null}}
