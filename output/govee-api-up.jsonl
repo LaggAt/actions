@@ -5065,3 +5065,4 @@
 {"timestamp": "2021-10-29 15:20:19", "get_devices": {"success": true, "ping": 277, "error": null}, "get_states": {"success": true, "ping": 91, "error": null}}
 {"timestamp": "2021-10-29 15:44:56", "get_devices": {"success": true, "ping": 104, "error": null}, "get_states": {"success": true, "ping": 10, "error": null}}
 {"timestamp": "2021-10-29 15:56:33", "get_devices": {"success": true, "ping": 229, "error": null}, "get_states": {"success": true, "ping": 62, "error": null}}
+{"timestamp": "2021-10-29 16:32:11", "get_devices": {"success": true, "ping": 115, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
