@@ -5088,3 +5088,4 @@
 {"timestamp": "2021-10-29 23:40:44", "get_devices": {"success": true, "ping": 215, "error": null}, "get_states": {"success": true, "ping": 48, "error": null}}
 {"timestamp": "2021-10-29 23:52:49", "get_devices": {"success": true, "ping": 214, "error": null}, "get_states": {"success": true, "ping": 49, "error": null}}
 {"timestamp": "2021-10-30 00:59:07", "get_devices": {"success": true, "ping": 213, "error": null}, "get_states": {"success": true, "ping": 32, "error": null}}
+{"timestamp": "2021-10-30 02:01:10", "get_devices": {"success": true, "ping": 119, "error": null}, "get_states": {"success": true, "ping": 15, "error": null}}
