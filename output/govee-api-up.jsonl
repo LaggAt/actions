@@ -5205,3 +5205,4 @@
 {"timestamp": "2021-10-31 20:19:19", "get_devices": {"success": true, "ping": 197, "error": null}, "get_states": {"success": true, "ping": 232, "error": null}}
 {"timestamp": "2021-10-31 20:39:58", "get_devices": {"success": true, "ping": 60, "error": null}, "get_states": {"success": true, "ping": 18, "error": null}}
 {"timestamp": "2021-10-31 20:52:28", "get_devices": {"success": true, "ping": 112, "error": null}, "get_states": {"success": true, "ping": 21, "error": null}}
+{"timestamp": "2021-10-31 21:16:16", "get_devices": {"success": true, "ping": 238, "error": null}, "get_states": {"success": true, "ping": 52, "error": null}}
