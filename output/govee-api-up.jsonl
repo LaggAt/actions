@@ -5210,3 +5210,4 @@
 {"timestamp": "2021-10-31 21:52:47", "get_devices": {"success": true, "ping": 132, "error": null}, "get_states": {"success": true, "ping": 160, "error": null}}
 {"timestamp": "2021-10-31 22:18:25", "get_devices": {"success": true, "ping": 369, "error": null}, "get_states": {"success": true, "ping": 75, "error": null}}
 {"timestamp": "2021-10-31 22:40:31", "get_devices": {"success": true, "ping": 83, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
+{"timestamp": "2021-10-31 22:52:22", "get_devices": {"success": true, "ping": 226, "error": null}, "get_states": {"success": true, "ping": 49, "error": null}}
