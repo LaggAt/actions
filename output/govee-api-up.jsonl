@@ -5238,3 +5238,4 @@
 {"timestamp": "2021-11-01 09:42:25", "get_devices": {"success": true, "ping": 444, "error": null}, "get_states": {"success": true, "ping": 81, "error": null}}
 {"timestamp": "2021-11-01 09:54:19", "get_devices": {"success": true, "ping": 238, "error": null}, "get_states": {"success": true, "ping": 95, "error": null}}
 {"timestamp": "2021-11-01 10:21:40", "get_devices": {"success": true, "ping": 259, "error": null}, "get_states": {"success": true, "ping": 43, "error": null}}
+{"timestamp": "2021-11-01 10:43:20", "get_devices": {"success": true, "ping": 98, "error": null}, "get_states": {"success": true, "ping": 28, "error": null}}
