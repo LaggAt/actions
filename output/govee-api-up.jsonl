@@ -5310,3 +5310,4 @@
 {"timestamp": "2021-11-02 14:18:08", "get_devices": {"success": true, "ping": 390, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
 {"timestamp": "2021-11-02 14:39:11", "get_devices": {"success": true, "ping": 219, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2021-11-02 14:52:55", "get_devices": {"success": true, "ping": 225, "error": null}, "get_states": {"success": true, "ping": 42, "error": null}}
+{"timestamp": "2021-11-02 15:20:24", "get_devices": {"success": true, "ping": 412, "error": null}, "get_states": {"success": true, "ping": 309, "error": null}}
