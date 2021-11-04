@@ -6,6 +6,7 @@
 import scrapy
 import json
 import datetime
+import re
 
 class GoveestatsInstallationsSpider(scrapy.Spider):
     name = 'goveestats-installations'
@@ -15,7 +16,15 @@ class GoveestatsInstallationsSpider(scrapy.Spider):
     def parse(self, response):
 
         jsonresponse = json.loads(response.body_as_unicode())
+
+        line = jsonresponse['govee']
+        keys = set(line['versions'])
+        # somehow there is a version "1.0" - this isn't from us, we use x.x.x as version format.
+        for key in keys:
+            if not re.match('^\d+\.\d+\.\d+$', key):
+                del line['versions'][key]
+
         return {
             'timestamp': datetime.datetime.now(datetime.timezone.utc),
-            'installations': jsonresponse['govee']
+            'installations': line
         }
