@@ -5445,3 +5445,4 @@
 {"timestamp": "2021-11-04 19:39:05", "get_devices": {"success": true, "ping": 377, "error": null}, "get_states": {"success": true, "ping": 80, "error": null}}
 {"timestamp": "2021-11-04 19:52:32", "get_devices": {"success": true, "ping": 215, "error": null}, "get_states": {"success": true, "ping": 59, "error": null}}
 {"timestamp": "2021-11-04 20:19:55", "get_devices": {"success": true, "ping": 104, "error": null}, "get_states": {"success": true, "ping": 20, "error": null}}
+{"timestamp": "2021-11-04 20:40:52", "get_devices": {"success": true, "ping": 80, "error": null}, "get_states": {"success": true, "ping": 13, "error": null}}
