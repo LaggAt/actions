@@ -5793,3 +5793,4 @@
 {"timestamp": "2021-11-10 10:21:36", "get_devices": {"success": true, "ping": 154, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
 {"timestamp": "2021-11-10 10:42:56", "get_devices": {"success": true, "ping": 299, "error": null}, "get_states": {"success": true, "ping": 139, "error": null}}
 {"timestamp": "2021-11-10 10:54:29", "get_devices": {"success": true, "ping": 203, "error": null}, "get_states": {"success": true, "ping": 120, "error": null}}
+{"timestamp": "2021-11-10 11:16:07", "get_devices": {"success": true, "ping": 218, "error": null}, "get_states": {"success": true, "ping": 53, "error": null}}
