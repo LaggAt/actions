@@ -23,6 +23,9 @@ class GoveestatsInstallationsSpider(scrapy.Spider):
         for key in keys:
             if not re.match('^\d+\.\d+\.\d+$', key):
                 del line['versions'][key]
+            elif key.startswith("1."):
+                # for now we do not have an 1.x version, but some other "govee" custom component does
+                del line['versions'][key]
 
         return {
             'timestamp': datetime.datetime.now(datetime.timezone.utc),
