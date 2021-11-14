@@ -6055,3 +6055,4 @@
 {"timestamp": "2021-11-14 15:19:22", "get_devices": {"success": true, "ping": 134, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
 {"timestamp": "2021-11-14 15:44:05", "get_devices": {"success": true, "ping": 299, "error": null}, "get_states": {"success": true, "ping": 99, "error": null}}
 {"timestamp": "2021-11-14 15:55:37", "get_devices": {"success": true, "ping": 281, "error": null}, "get_states": {"success": true, "ping": 163, "error": null}}
+{"timestamp": "2021-11-14 16:28:54", "get_devices": {"success": true, "ping": 212, "error": null}, "get_states": {"success": true, "ping": 57, "error": null}}
