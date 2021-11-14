@@ -6065,3 +6065,4 @@
 {"timestamp": "2021-11-14 19:17:24", "get_devices": {"success": true, "ping": 365, "error": null}, "get_states": {"success": true, "ping": 110, "error": null}}
 {"timestamp": "2021-11-14 19:38:08", "get_devices": {"success": true, "ping": 286, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
 {"timestamp": "2021-11-14 19:52:26", "get_devices": {"success": true, "ping": 99, "error": null}, "get_states": {"success": true, "ping": 15, "error": null}}
+{"timestamp": "2021-11-14 20:19:22", "get_devices": {"success": true, "ping": 82, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
