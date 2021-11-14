@@ -6059,3 +6059,4 @@
 {"timestamp": "2021-11-14 17:00:45", "get_devices": {"success": true, "ping": 215, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
 {"timestamp": "2021-11-14 17:35:12", "get_devices": {"success": true, "ping": 365, "error": null}, "get_states": {"success": true, "ping": 89, "error": null}}
 {"timestamp": "2021-11-14 17:52:24", "get_devices": {"success": true, "ping": 248, "error": null}, "get_states": {"success": true, "ping": 136, "error": null}}
+{"timestamp": "2021-11-14 18:21:48", "get_devices": {"success": true, "ping": 412, "error": null}, "get_states": {"success": true, "ping": 79, "error": null}}
