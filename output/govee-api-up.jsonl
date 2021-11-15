@@ -6088,3 +6088,4 @@
 {"timestamp": "2021-11-15 04:51:30", "get_devices": {"success": true, "ping": 399, "error": null}, "get_states": {"success": true, "ping": 77, "error": null}}
 {"timestamp": "2021-11-15 05:17:56", "get_devices": {"success": true, "ping": 443, "error": null}, "get_states": {"success": true, "ping": 89, "error": null}}
 {"timestamp": "2021-11-15 05:38:04", "get_devices": {"success": true, "ping": 166, "error": null}, "get_states": {"success": true, "ping": 385, "error": null}}
+{"timestamp": "2021-11-15 05:52:46", "get_devices": {"success": true, "ping": 114, "error": null}, "get_states": {"success": true, "ping": 26, "error": null}}
