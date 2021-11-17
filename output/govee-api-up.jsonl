@@ -6240,3 +6240,4 @@
 {"timestamp": "2021-11-17 14:52:35", "get_devices": {"success": true, "ping": 145, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
 {"timestamp": "2021-11-17 15:20:14", "get_devices": {"success": true, "ping": 274, "error": null}, "get_states": {"success": true, "ping": 148, "error": null}}
 {"timestamp": "2021-11-17 15:45:02", "get_devices": {"success": true, "ping": 82, "error": null}, "get_states": {"success": true, "ping": 11, "error": null}}
+{"timestamp": "2021-11-17 15:56:43", "get_devices": {"success": true, "ping": 385, "error": null}, "get_states": {"success": true, "ping": 81, "error": null}}
