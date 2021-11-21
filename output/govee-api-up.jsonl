@@ -6509,3 +6509,4 @@
 {"timestamp": "2021-11-21 22:40:28", "get_devices": {"success": true, "ping": 260, "error": null}, "get_states": {"success": true, "ping": 97, "error": null}}
 {"timestamp": "2021-11-21 22:52:34", "get_devices": {"success": true, "ping": 125, "error": null}, "get_states": {"success": true, "ping": 10, "error": null}}
 {"timestamp": "2021-11-21 23:19:10", "get_devices": {"success": true, "ping": 565, "error": null}, "get_states": {"success": true, "ping": 112, "error": null}}
+{"timestamp": "2021-11-21 23:40:05", "get_devices": {"success": true, "ping": 123, "error": null}, "get_states": {"success": true, "ping": 141, "error": null}}
