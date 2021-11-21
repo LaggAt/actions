@@ -6480,3 +6480,4 @@
 {"timestamp": "2021-11-21 11:52:24", "get_devices": {"success": true, "ping": 342, "error": null}, "get_states": {"success": true, "ping": 164, "error": null}}
 {"timestamp": "2021-11-21 12:29:42", "get_devices": {"success": true, "ping": 343, "error": null}, "get_states": {"success": true, "ping": 76, "error": null}}
 {"timestamp": "2021-11-21 13:00:11", "get_devices": {"success": true, "ping": 163, "error": null}, "get_states": {"success": true, "ping": 18, "error": null}}
+{"timestamp": "2021-11-21 13:27:05", "get_devices": {"success": true, "ping": 100, "error": null}, "get_states": {"success": true, "ping": 15, "error": null}}
