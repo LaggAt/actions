@@ -6570,3 +6570,4 @@
 {"timestamp": "2021-11-22 22:52:59", "get_devices": {"success": true, "ping": 222, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
 {"timestamp": "2021-11-22 23:19:41", "get_devices": {"success": true, "ping": 205, "error": null}, "get_states": {"success": true, "ping": 51, "error": null}}
 {"timestamp": "2021-11-22 23:40:44", "get_devices": {"success": true, "ping": 102, "error": null}, "get_states": {"success": true, "ping": 80, "error": null}}
+{"timestamp": "2021-11-22 23:52:26", "get_devices": {"success": true, "ping": 404, "error": null}, "get_states": {"success": true, "ping": 97, "error": null}}
