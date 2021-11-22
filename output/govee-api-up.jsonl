@@ -6560,3 +6560,4 @@
 {"timestamp": "2021-11-22 19:39:09", "get_devices": {"success": true, "ping": 196, "error": null}, "get_states": {"success": true, "ping": 41, "error": null}}
 {"timestamp": "2021-11-22 19:52:30", "get_devices": {"success": true, "ping": 364, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
 {"timestamp": "2021-11-22 20:20:40", "get_devices": {"success": true, "ping": 107, "error": null}, "get_states": {"success": true, "ping": 13, "error": null}}
+{"timestamp": "2021-11-22 20:41:10", "get_devices": {"success": true, "ping": 259, "error": null}, "get_states": {"success": true, "ping": 56, "error": null}}
