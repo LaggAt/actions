@@ -6590,3 +6590,4 @@
 {"timestamp": "2021-11-23 07:52:50", "get_devices": {"success": true, "ping": 184, "error": null}, "get_states": {"success": true, "ping": 260, "error": null}}
 {"timestamp": "2021-11-23 08:23:24", "get_devices": {"success": true, "ping": 119, "error": null}, "get_states": {"success": true, "ping": 187, "error": null}}
 {"timestamp": "2021-11-23 08:44:37", "get_devices": {"success": true, "ping": 127, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
+{"timestamp": "2021-11-23 08:56:21", "get_devices": {"success": true, "ping": 148, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
