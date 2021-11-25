@@ -6719,3 +6719,4 @@
 {"timestamp": "2021-11-25 10:21:17", "get_devices": {"success": true, "ping": 337, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
 {"timestamp": "2021-11-25 10:43:09", "get_devices": {"success": true, "ping": 132, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
 {"timestamp": "2021-11-25 10:54:43", "get_devices": {"success": true, "ping": 632, "error": null}, "get_states": {"success": true, "ping": 175, "error": null}}
+{"timestamp": "2021-11-25 11:16:28", "get_devices": {"success": true, "ping": 333, "error": null}, "get_states": {"success": true, "ping": 70, "error": null}}
