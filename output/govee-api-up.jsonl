@@ -7015,3 +7015,4 @@
 {"timestamp": "2021-11-30 08:19:43", "get_devices": {"success": true, "ping": 272, "error": null}, "get_states": {"success": true, "ping": 180, "error": null}}
 {"timestamp": "2021-11-30 08:38:52", "get_devices": {"success": true, "ping": 245, "error": null}, "get_states": {"success": true, "ping": 161, "error": null}}
 {"timestamp": "2021-11-30 08:52:26", "get_devices": {"success": true, "ping": 225, "error": null}, "get_states": {"success": true, "ping": 61, "error": null}}
+{"timestamp": "2021-11-30 09:16:26", "get_devices": {"success": true, "ping": 228, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
