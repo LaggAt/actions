@@ -7088,3 +7088,4 @@
 {"timestamp": "2021-12-01 11:52:30", "get_devices": {"success": true, "ping": 298, "error": null}, "get_states": {"success": true, "ping": 72, "error": null}}
 {"timestamp": "2021-12-01 12:31:55", "get_devices": {"success": true, "ping": 295, "error": null}, "get_states": {"success": true, "ping": 107, "error": null}}
 {"timestamp": "2021-12-01 13:08:34", "get_devices": {"success": true, "ping": 193, "error": null}, "get_states": {"success": true, "ping": 46, "error": null}}
+{"timestamp": "2021-12-01 13:34:51", "get_devices": {"success": true, "ping": 130, "error": null}, "get_states": {"success": true, "ping": 77, "error": null}}
