@@ -7203,3 +7203,4 @@
 {"timestamp": "2021-12-03 10:43:10", "get_devices": {"success": true, "ping": 225, "error": null}, "get_states": {"success": true, "ping": 177, "error": null}}
 {"timestamp": "2021-12-03 10:55:00", "get_devices": {"success": true, "ping": 355, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
 {"timestamp": "2021-12-03 11:16:12", "get_devices": {"success": true, "ping": 352, "error": null}, "get_states": {"success": true, "ping": 141, "error": null}}
+{"timestamp": "2021-12-03 11:37:35", "get_devices": {"success": true, "ping": 410, "error": null}, "get_states": {"success": true, "ping": 79, "error": null}}
