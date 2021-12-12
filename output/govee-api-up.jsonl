@@ -7729,3 +7729,4 @@
 {"timestamp": "2021-12-12 08:22:40", "get_devices": {"success": true, "ping": 100, "error": null}, "get_states": {"success": true, "ping": 10, "error": null}}
 {"timestamp": "2021-12-12 08:44:09", "get_devices": {"success": true, "ping": 94, "error": null}, "get_states": {"success": true, "ping": 12, "error": null}}
 {"timestamp": "2021-12-12 08:55:52", "get_devices": {"success": true, "ping": 384, "error": null}, "get_states": {"success": true, "ping": 79, "error": null}}
+{"timestamp": "2021-12-12 09:19:46", "get_devices": {"success": true, "ping": 270, "error": null}, "get_states": {"success": true, "ping": 45, "error": null}}
