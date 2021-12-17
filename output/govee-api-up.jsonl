@@ -8040,3 +8040,4 @@
 {"timestamp": "2021-12-17 11:52:39", "get_devices": {"success": true, "ping": 101, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
 {"timestamp": "2021-12-17 12:31:16", "get_devices": {"success": true, "ping": 85, "error": null}, "get_states": {"success": true, "ping": 19, "error": null}}
 {"timestamp": "2021-12-17 13:07:12", "get_devices": {"success": true, "ping": 424, "error": null}, "get_states": {"success": true, "ping": 148, "error": null}}
+{"timestamp": "2021-12-17 13:33:11", "get_devices": {"success": true, "ping": 107, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
