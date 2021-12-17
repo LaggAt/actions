@@ -8031,3 +8031,4 @@
 {"timestamp": "2021-12-17 09:22:24", "get_devices": {"success": true, "ping": 214, "error": null}, "get_states": {"success": true, "ping": 46, "error": null}}
 {"timestamp": "2021-12-17 09:42:23", "get_devices": {"success": true, "ping": 179, "error": null}, "get_states": {"success": true, "ping": 46, "error": null}}
 {"timestamp": "2021-12-17 09:54:14", "get_devices": {"success": true, "ping": 135, "error": null}, "get_states": {"success": true, "ping": 10, "error": null}}
+{"timestamp": "2021-12-17 10:21:38", "get_devices": {"success": true, "ping": 100, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
