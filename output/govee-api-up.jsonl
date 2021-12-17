@@ -8042,3 +8042,4 @@
 {"timestamp": "2021-12-17 13:07:12", "get_devices": {"success": true, "ping": 424, "error": null}, "get_states": {"success": true, "ping": 148, "error": null}}
 {"timestamp": "2021-12-17 13:33:11", "get_devices": {"success": true, "ping": 107, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
 {"timestamp": "2021-12-17 13:52:48", "get_devices": {"success": true, "ping": 195, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
+{"timestamp": "2021-12-17 14:18:22", "get_devices": {"success": true, "ping": 247, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
