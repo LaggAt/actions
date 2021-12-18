@@ -8085,3 +8085,4 @@
 {"timestamp": "2021-12-18 07:18:28", "get_devices": {"success": true, "ping": 208, "error": null}, "get_states": {"success": true, "ping": 45, "error": null}}
 {"timestamp": "2021-12-18 07:38:09", "get_devices": {"success": true, "ping": 101, "error": null}, "get_states": {"success": true, "ping": 15, "error": null}}
 {"timestamp": "2021-12-18 07:52:28", "get_devices": {"success": true, "ping": 220, "error": null}, "get_states": {"success": true, "ping": 49, "error": null}}
+{"timestamp": "2021-12-18 08:23:18", "get_devices": {"success": true, "ping": 94, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
