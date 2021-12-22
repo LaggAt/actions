@@ -8350,3 +8350,4 @@
 {"timestamp": "2021-12-22 19:52:35", "get_devices": {"success": true, "ping": 337, "error": null}, "get_states": {"success": true, "ping": 312, "error": null}}
 {"timestamp": "2021-12-22 20:21:26", "get_devices": {"success": true, "ping": 104, "error": null}, "get_states": {"success": true, "ping": 17, "error": null}}
 {"timestamp": "2021-12-22 20:42:46", "get_devices": {"success": true, "ping": 506, "error": null}, "get_states": {"success": true, "ping": 86, "error": null}}
+{"timestamp": "2021-12-22 20:54:37", "get_devices": {"success": true, "ping": 420, "error": null}, "get_states": {"success": true, "ping": 77, "error": null}}
