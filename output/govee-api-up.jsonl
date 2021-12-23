@@ -8370,3 +8370,4 @@
 {"timestamp": "2021-12-23 04:54:33", "get_devices": {"success": true, "ping": 177, "error": null}, "get_states": {"success": true, "ping": 143, "error": null}}
 {"timestamp": "2021-12-23 05:19:32", "get_devices": {"success": true, "ping": 207, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2021-12-23 05:39:55", "get_devices": {"success": true, "ping": 264, "error": null}, "get_states": {"success": true, "ping": 30, "error": null}}
+{"timestamp": "2021-12-23 05:52:28", "get_devices": {"success": true, "ping": 207, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
