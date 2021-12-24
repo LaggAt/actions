@@ -8420,3 +8420,4 @@
 {"timestamp": "2021-12-23 23:53:21", "get_devices": {"success": true, "ping": 86, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
 {"timestamp": "2021-12-24 01:05:05", "get_devices": {"success": true, "ping": 118, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
 {"timestamp": "2021-12-24 02:11:56", "get_devices": {"success": true, "ping": 317, "error": null}, "get_states": {"success": true, "ping": 232, "error": null}}
+{"timestamp": "2021-12-24 02:47:38", "get_devices": {"success": true, "ping": 206, "error": null}, "get_states": {"success": true, "ping": 48, "error": null}}
