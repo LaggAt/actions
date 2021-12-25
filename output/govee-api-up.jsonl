@@ -8500,3 +8500,4 @@
 {"timestamp": "2021-12-25 10:21:03", "get_devices": {"success": true, "ping": 139, "error": null}, "get_states": {"success": true, "ping": 20, "error": null}}
 {"timestamp": "2021-12-25 10:43:02", "get_devices": {"success": true, "ping": 226, "error": null}, "get_states": {"success": true, "ping": 51, "error": null}}
 {"timestamp": "2021-12-25 10:54:53", "get_devices": {"success": true, "ping": 350, "error": null}, "get_states": {"success": true, "ping": 72, "error": null}}
+{"timestamp": "2021-12-25 11:16:06", "get_devices": {"success": true, "ping": 210, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
