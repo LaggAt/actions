@@ -8553,3 +8553,4 @@
 {"timestamp": "2021-12-26 07:52:29", "get_devices": {"success": true, "ping": 203, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2021-12-26 08:23:31", "get_devices": {"success": true, "ping": 196, "error": null}, "get_states": {"success": true, "ping": 56, "error": null}}
 {"timestamp": "2021-12-26 08:45:13", "get_devices": {"success": true, "ping": 111, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
+{"timestamp": "2021-12-26 08:57:02", "get_devices": {"success": true, "ping": 357, "error": null}, "get_states": {"success": true, "ping": 79, "error": null}}
