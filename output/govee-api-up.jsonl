@@ -8678,3 +8678,4 @@
 {"timestamp": "2021-12-28 11:16:29", "get_devices": {"success": true, "ping": 265, "error": null}, "get_states": {"success": true, "ping": 69, "error": null}}
 {"timestamp": "2021-12-28 11:37:44", "get_devices": {"success": true, "ping": 231, "error": null}, "get_states": {"success": true, "ping": 56, "error": null}}
 {"timestamp": "2021-12-28 11:52:45", "get_devices": {"success": true, "ping": 185, "error": null}, "get_states": {"success": true, "ping": 323, "error": null}}
+{"timestamp": "2021-12-28 12:32:26", "get_devices": {"success": true, "ping": 339, "error": null}, "get_states": {"success": true, "ping": 90, "error": null}}
