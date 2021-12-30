@@ -8771,3 +8771,4 @@
 {"timestamp": "2021-12-30 02:46:52", "get_devices": {"success": true, "ping": 225, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2021-12-30 03:19:58", "get_devices": {"success": true, "ping": 90, "error": null}, "get_states": {"success": true, "ping": 10, "error": null}}
 {"timestamp": "2021-12-30 03:42:44", "get_devices": {"success": true, "ping": 212, "error": null}, "get_states": {"success": true, "ping": 32, "error": null}}
+{"timestamp": "2021-12-30 03:54:33", "get_devices": {"success": true, "ping": 557, "error": null}, "get_states": {"success": true, "ping": 109, "error": null}}
