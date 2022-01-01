@@ -8911,3 +8911,4 @@
 {"timestamp": "2022-01-01 11:52:29", "get_devices": {"success": true, "ping": 461, "error": null}, "get_states": {"success": true, "ping": 81, "error": null}}
 {"timestamp": "2022-01-01 12:31:35", "get_devices": {"success": true, "ping": 239, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2022-01-01 13:07:38", "get_devices": {"success": true, "ping": 132, "error": null}, "get_states": {"success": true, "ping": 16, "error": null}}
+{"timestamp": "2022-01-01 13:34:27", "get_devices": {"success": true, "ping": 82, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
