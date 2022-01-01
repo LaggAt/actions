@@ -8900,3 +8900,4 @@
 {"timestamp": "2022-01-01 07:52:31", "get_devices": {"success": true, "ping": 129, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
 {"timestamp": "2022-01-01 08:24:00", "get_devices": {"success": true, "ping": 208, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2022-01-01 08:46:24", "get_devices": {"success": true, "ping": 568, "error": null}, "get_states": {"success": true, "ping": 75, "error": null}}
+{"timestamp": "2022-01-01 09:20:12", "get_devices": {"success": true, "ping": 381, "error": null}, "get_states": {"success": true, "ping": 79, "error": null}}
