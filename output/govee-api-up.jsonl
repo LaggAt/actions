@@ -9132,3 +9132,4 @@
 {"timestamp": "2022-01-05 07:52:54", "get_devices": {"success": true, "ping": 231, "error": null}, "get_states": {"success": true, "ping": 51, "error": null}}
 {"timestamp": "2022-01-05 08:24:42", "get_devices": {"success": true, "ping": 344, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
 {"timestamp": "2022-01-05 08:46:40", "get_devices": {"success": true, "ping": 432, "error": null}, "get_states": {"success": true, "ping": 74, "error": null}}
+{"timestamp": "2022-01-05 09:21:01", "get_devices": {"success": true, "ping": 216, "error": null}, "get_states": {"success": true, "ping": 42, "error": null}}
