@@ -9288,3 +9288,4 @@
 {"timestamp": "2022-01-08 01:07:24", "get_devices": {"success": true, "ping": 474, "error": null}, "get_states": {"success": true, "ping": 177, "error": null}}
 {"timestamp": "2022-01-08 02:14:02", "get_devices": {"success": true, "ping": 219, "error": null}, "get_states": {"success": true, "ping": 105, "error": null}}
 {"timestamp": "2022-01-08 02:52:28", "get_devices": {"success": true, "ping": 185, "error": null}, "get_states": {"success": true, "ping": 81, "error": null}}
+{"timestamp": "2022-01-08 03:22:14", "get_devices": {"success": true, "ping": 622, "error": null}, "get_states": {"success": true, "ping": 75, "error": null}}
