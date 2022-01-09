@@ -9379,3 +9379,4 @@
 {"timestamp": "2022-01-09 14:52:30", "get_devices": {"success": true, "ping": 103, "error": null}, "get_states": {"success": true, "ping": 9, "error": null}}
 {"timestamp": "2022-01-09 15:20:03", "get_devices": {"success": true, "ping": 178, "error": null}, "get_states": {"success": true, "ping": 70, "error": null}}
 {"timestamp": "2022-01-09 15:45:09", "get_devices": {"success": true, "ping": 105, "error": null}, "get_states": {"success": true, "ping": 19, "error": null}}
+{"timestamp": "2022-01-09 15:56:58", "get_devices": {"success": true, "ping": 393, "error": null}, "get_states": {"success": true, "ping": 90, "error": null}}
