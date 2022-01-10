@@ -9444,3 +9444,4 @@
 {"timestamp": "2022-01-10 18:24:42", "get_devices": {"success": true, "ping": 472, "error": null}, "get_states": {"success": true, "ping": 78, "error": null}}
 {"timestamp": "2022-01-10 18:49:08", "get_devices": {"success": true, "ping": 236, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
 {"timestamp": "2022-01-10 19:15:39", "get_devices": {"success": true, "ping": 698, "error": null}, "get_states": {"success": true, "ping": 168, "error": null}}
+{"timestamp": "2022-01-10 19:27:14", "get_devices": {"success": true, "ping": 600, "error": null}, "get_states": {"success": true, "ping": 133, "error": null}}
