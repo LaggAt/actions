@@ -9473,3 +9473,4 @@
 {"timestamp": "2022-01-11 06:25:33", "get_devices": {"success": true, "ping": 544, "error": null}, "get_states": {"success": true, "ping": 137, "error": null}}
 {"timestamp": "2022-01-11 06:51:35", "get_devices": {"success": true, "ping": 372, "error": null}, "get_states": {"success": true, "ping": 83, "error": null}}
 {"timestamp": "2022-01-11 07:19:38", "get_devices": {"success": true, "ping": 291, "error": null}, "get_states": {"success": true, "ping": 182, "error": null}}
+{"timestamp": "2022-01-11 07:39:52", "get_devices": {"success": true, "ping": 1571, "error": null}, "get_states": {"success": true, "ping": 115, "error": null}}
