@@ -9711,3 +9711,4 @@
 {"timestamp": "2022-01-15 10:43:50", "get_devices": {"success": true, "ping": 567, "error": null}, "get_states": {"success": true, "ping": 99, "error": null}}
 {"timestamp": "2022-01-15 10:55:27", "get_devices": {"success": true, "ping": 120, "error": null}, "get_states": {"success": true, "ping": 13, "error": null}}
 {"timestamp": "2022-01-15 11:16:27", "get_devices": {"success": true, "ping": 124, "error": null}, "get_states": {"success": true, "ping": 14, "error": null}}
+{"timestamp": "2022-01-15 11:37:44", "get_devices": {"success": true, "ping": 158, "error": null}, "get_states": {"success": true, "ping": 23, "error": null}}
