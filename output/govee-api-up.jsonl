@@ -10000,3 +10000,4 @@
 {"timestamp": "2022-01-20 08:54:34", "get_devices": {"success": true, "ping": 452, "error": null}, "get_states": {"success": true, "ping": 78, "error": null}}
 {"timestamp": "2022-01-20 09:19:33", "get_devices": {"success": true, "ping": 228, "error": null}, "get_states": {"success": true, "ping": 43, "error": null}}
 {"timestamp": "2022-01-20 09:40:17", "get_devices": {"success": true, "ping": 207, "error": null}, "get_states": {"success": true, "ping": 75, "error": null}}
+{"timestamp": "2022-01-20 09:52:34", "get_devices": {"success": true, "ping": 285, "error": null}, "get_states": {"success": true, "ping": 150, "error": null}}
