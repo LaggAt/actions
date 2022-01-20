@@ -10003,3 +10003,4 @@
 {"timestamp": "2022-01-20 09:52:34", "get_devices": {"success": true, "ping": 285, "error": null}, "get_states": {"success": true, "ping": 150, "error": null}}
 {"timestamp": "2022-01-20 10:20:19", "get_devices": {"success": true, "ping": 135, "error": null}, "get_states": {"success": true, "ping": 18, "error": null}}
 {"timestamp": "2022-01-20 10:41:20", "get_devices": {"success": true, "ping": 232, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
+{"timestamp": "2022-01-20 10:52:57", "get_devices": {"success": true, "ping": 353, "error": null}, "get_states": {"success": true, "ping": 70, "error": null}}
