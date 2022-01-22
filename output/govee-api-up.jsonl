@@ -10133,3 +10133,4 @@
 {"timestamp": "2022-01-22 09:52:26", "get_devices": {"success": true, "ping": 538, "error": null}, "get_states": {"success": true, "ping": 94, "error": null}}
 {"timestamp": "2022-01-22 10:19:49", "get_devices": {"success": true, "ping": 199, "error": null}, "get_states": {"success": true, "ping": 46, "error": null}}
 {"timestamp": "2022-01-22 10:40:25", "get_devices": {"success": true, "ping": 206, "error": null}, "get_states": {"success": true, "ping": 48, "error": null}}
+{"timestamp": "2022-01-22 10:52:43", "get_devices": {"success": true, "ping": 355, "error": null}, "get_states": {"success": true, "ping": 104, "error": null}}
