@@ -11070,3 +11070,4 @@
 {"timestamp": "2022-02-05 15:52:33", "get_devices": {"success": true, "ping": 227, "error": null}, "get_states": {"success": true, "ping": 628, "error": null}}
 {"timestamp": "2022-02-05 16:21:53", "get_devices": {"success": true, "ping": 159, "error": null}, "get_states": {"success": true, "ping": 35, "error": null}}
 {"timestamp": "2022-02-05 16:45:15", "get_devices": {"success": true, "ping": 89, "error": null}, "get_states": {"success": true, "ping": 224, "error": null}}
+{"timestamp": "2022-02-05 16:57:01", "get_devices": {"success": true, "ping": 634, "error": null}, "get_states": {"success": true, "ping": 186, "error": null}}
