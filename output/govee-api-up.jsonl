@@ -11055,3 +11055,4 @@
 {"timestamp": "2022-02-05 11:25:20", "get_devices": {"success": true, "ping": 411, "error": null}, "get_states": {"success": true, "ping": 731, "error": null}}
 {"timestamp": "2022-02-05 11:37:32", "get_devices": {"success": true, "ping": 102, "error": null}, "get_states": {"success": true, "ping": 33, "error": null}}
 {"timestamp": "2022-02-05 11:52:23", "get_devices": {"success": true, "ping": 116, "error": null}, "get_states": {"success": true, "ping": 131, "error": null}}
+{"timestamp": "2022-02-05 12:22:52", "get_devices": {"success": true, "ping": 374, "error": null}, "get_states": {"success": true, "ping": 71, "error": null}}
