@@ -11370,3 +11370,4 @@
 {"timestamp": "2022-02-10 06:22:22", "get_devices": {"success": true, "ping": 402, "error": null}, "get_states": {"success": true, "ping": 158, "error": null}}
 {"timestamp": "2022-02-10 06:44:56", "get_devices": {"success": true, "ping": 246, "error": null}, "get_states": {"success": true, "ping": 31, "error": null}}
 {"timestamp": "2022-02-10 06:56:39", "get_devices": {"success": true, "ping": 124, "error": null}, "get_states": {"success": true, "ping": 26, "error": null}}
+{"timestamp": "2022-02-10 07:18:48", "get_devices": {"success": true, "ping": 420, "error": null}, "get_states": {"success": true, "ping": 169, "error": null}}
