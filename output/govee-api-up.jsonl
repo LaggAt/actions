@@ -11565,3 +11565,4 @@
 {"timestamp": "2022-02-13 05:52:28", "get_devices": {"success": true, "ping": 223, "error": null}, "get_states": {"success": true, "ping": 88, "error": null}}
 {"timestamp": "2022-02-13 06:21:18", "get_devices": {"success": true, "ping": 199, "error": null}, "get_states": {"success": true, "ping": 88, "error": null}}
 {"timestamp": "2022-02-13 06:44:07", "get_devices": {"success": true, "ping": 218, "error": null}, "get_states": {"success": true, "ping": 122, "error": null}}
+{"timestamp": "2022-02-13 06:55:54", "get_devices": {"success": true, "ping": 385, "error": null}, "get_states": {"success": true, "ping": 169, "error": null}}
