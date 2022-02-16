@@ -11790,3 +11790,4 @@
 {"timestamp": "2022-02-16 16:54:51", "get_devices": {"success": true, "ping": 176, "error": null}, "get_states": {"success": true, "ping": 44, "error": null}}
 {"timestamp": "2022-02-16 17:18:47", "get_devices": {"success": true, "ping": 134, "error": null}, "get_states": {"success": true, "ping": 220, "error": null}}
 {"timestamp": "2022-02-16 17:39:14", "get_devices": {"success": true, "ping": 377, "error": null}, "get_states": {"success": true, "ping": 154, "error": null}}
+{"timestamp": "2022-02-16 17:52:29", "get_devices": {"success": true, "ping": 414, "error": null}, "get_states": {"success": true, "ping": 188, "error": null}}
