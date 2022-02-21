@@ -12107,3 +12107,4 @@
 {"timestamp": "2022-02-21 15:43:07", "get_devices": {"success": true, "ping": 127, "error": null}, "get_states": {"success": true, "ping": 38, "error": null}}
 {"timestamp": "2022-02-21 15:54:52", "get_devices": {"success": true, "ping": 394, "error": null}, "get_states": {"success": true, "ping": 179, "error": null}}
 {"timestamp": "2022-02-21 16:27:17", "get_devices": {"success": true, "ping": 200, "error": null}, "get_states": {"success": true, "ping": 301, "error": null}}
+{"timestamp": "2022-02-21 16:55:01", "get_devices": {"success": true, "ping": 213, "error": null}, "get_states": {"success": true, "ping": 98, "error": null}}
