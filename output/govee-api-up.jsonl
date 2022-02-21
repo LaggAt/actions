@@ -12113,3 +12113,4 @@
 {"timestamp": "2022-02-21 17:52:28", "get_devices": {"success": true, "ping": 135, "error": null}, "get_states": {"success": true, "ping": 133, "error": null}}
 {"timestamp": "2022-02-21 18:22:21", "get_devices": {"success": true, "ping": 254, "error": null}, "get_states": {"success": true, "ping": 329, "error": null}}
 {"timestamp": "2022-02-21 18:43:49", "get_devices": {"success": true, "ping": 99, "error": null}, "get_states": {"success": true, "ping": 115, "error": null}}
+{"timestamp": "2022-02-21 18:55:37", "get_devices": {"success": true, "ping": 212, "error": null}, "get_states": {"success": true, "ping": 85, "error": null}}
