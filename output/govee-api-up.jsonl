@@ -12220,3 +12220,4 @@
 {"timestamp": "2022-02-23 11:15:48", "get_devices": {"success": true, "ping": 86, "error": null}, "get_states": {"success": true, "ping": 34, "error": null}}
 {"timestamp": "2022-02-23 11:37:21", "get_devices": {"success": true, "ping": 438, "error": null}, "get_states": {"success": true, "ping": 247, "error": null}}
 {"timestamp": "2022-02-23 11:52:37", "get_devices": {"success": true, "ping": 523, "error": null}, "get_states": {"success": true, "ping": 167, "error": null}}
+{"timestamp": "2022-02-23 12:32:12", "get_devices": {"success": true, "ping": 347, "error": null}, "get_states": {"success": true, "ping": 155, "error": null}}
