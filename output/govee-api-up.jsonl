@@ -14096,3 +14096,4 @@
 {"timestamp": "2022-03-26 08:42:42", "get_devices": {"success": true, "ping": 332, "error": null}, "get_states": {"success": true, "ping": 222, "error": null}}
 {"timestamp": "2022-03-26 08:54:18", "get_devices": {"success": true, "ping": 102, "error": null}, "get_states": {"success": true, "ping": 117, "error": null}}
 {"timestamp": "2022-03-26 09:18:23", "get_devices": {"success": true, "ping": 238, "error": null}, "get_states": {"success": true, "ping": 221, "error": null}}
+{"timestamp": "2022-03-26 09:39:28", "get_devices": {"success": true, "ping": 419, "error": null}, "get_states": {"success": true, "ping": 160, "error": null}}
