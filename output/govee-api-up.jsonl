@@ -14220,3 +14220,4 @@
 {"timestamp": "2022-03-28 10:42:30", "get_devices": {"success": true, "ping": 99, "error": null}, "get_states": {"success": true, "ping": 34, "error": null}}
 {"timestamp": "2022-03-28 10:54:23", "get_devices": {"success": true, "ping": 97, "error": null}, "get_states": {"success": true, "ping": 35, "error": null}}
 {"timestamp": "2022-03-28 11:17:48", "get_devices": {"success": true, "ping": 74, "error": null}, "get_states": {"success": true, "ping": 94, "error": null}}
+{"timestamp": "2022-03-28 11:37:42", "get_devices": {"success": true, "ping": 333, "error": null}, "get_states": {"success": true, "ping": 305, "error": null}}
