@@ -72,18 +72,23 @@ def graph():
     # plot
     fig, ax = plt.subplots()
     
+    # bar colors
+    cmap = mpl.cm.get_cmap('gist_rainbow', len(versions)).reversed()
+    norm = mpl.colors.Normalize(vmin=0, vmax=len(versions))
+    
     totals = [0 for r in x_dates]
     bars = []
     for ver in versions:
         row_data = installs_per_version[ver]
         
-        # bar chart for version
+        # bars per version
         bars.append(
             ax.bar(
                 x_dates,
                 row_data,
                 bottom=totals,
-                label=ver
+                label=ver,
+                color=cmap(norm(len(bars)))
             )
         )
 
