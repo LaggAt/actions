@@ -15,7 +15,7 @@ class GoveestatsInstallationsSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        jsonresponse = json.loads(response.body_as_unicode())
+        jsonresponse = json.loads(response.body)
 
         line = jsonresponse['govee']
         keys = set(line['versions'])
