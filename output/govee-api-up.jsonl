@@ -15134,3 +15134,4 @@
 {"timestamp": "2022-04-13 08:46:07", "get_devices": {"success": true, "ping": 722, "error": null}, "get_states": {"success": true, "ping": 166, "error": null}}
 {"timestamp": "2022-04-13 09:20:10", "get_devices": {"success": true, "ping": 98, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
 {"timestamp": "2022-04-13 09:40:52", "get_devices": {"success": true, "ping": 265, "error": null}, "get_states": {"success": true, "ping": 99, "error": null}}
+{"timestamp": "2022-04-13 09:52:39", "get_devices": {"success": true, "ping": 336, "error": null}, "get_states": {"success": true, "ping": 484, "error": null}}
