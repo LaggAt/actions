@@ -16033,3 +16033,4 @@
 {"timestamp": "2022-04-30 04:58:48", "get_devices": {"success": true, "ping": 79, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
 {"timestamp": "2022-04-30 05:23:15", "get_devices": {"success": true, "ping": 83, "error": null}, "get_states": {"success": true, "ping": 33, "error": null}}
 {"timestamp": "2022-04-30 05:39:38", "get_devices": {"success": true, "ping": 84, "error": null}, "get_states": {"success": true, "ping": 45, "error": null}}
+{"timestamp": "2022-04-30 05:52:27", "get_devices": {"success": true, "ping": 383, "error": null}, "get_states": {"success": true, "ping": 168, "error": null}}
