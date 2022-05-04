@@ -16255,3 +16255,4 @@
 {"timestamp": "2022-05-04 09:22:29", "get_devices": {"success": true, "ping": 86, "error": null}, "get_states": {"success": true, "ping": 29, "error": null}}
 {"timestamp": "2022-05-04 09:43:55", "get_devices": {"success": true, "ping": 174, "error": null}, "get_states": {"success": true, "ping": 59, "error": null}}
 {"timestamp": "2022-05-04 09:55:56", "get_devices": {"success": true, "ping": 285, "error": null}, "get_states": {"success": true, "ping": 307, "error": null}}
+{"timestamp": "2022-05-04 10:24:30", "get_devices": {"success": true, "ping": 97, "error": null}, "get_states": {"success": true, "ping": 34, "error": null}}
