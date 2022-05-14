@@ -16625,3 +16625,4 @@
 {"timestamp": "2022-05-14 19:17:16", "get_devices": {"success": true, "ping": 353, "error": null}, "get_states": {"success": true, "ping": 129, "error": null}}
 {"timestamp": "2022-05-14 19:38:03", "get_devices": {"success": true, "ping": 107, "error": null}, "get_states": {"success": true, "ping": 32, "error": null}}
 {"timestamp": "2022-05-14 19:52:28", "get_devices": {"success": true, "ping": 275, "error": null}, "get_states": {"success": true, "ping": 405, "error": null}}
+{"timestamp": "2022-05-14 20:21:44", "get_devices": {"success": true, "ping": 84, "error": null}, "get_states": {"success": true, "ping": 32, "error": null}}
