@@ -18500,3 +18500,4 @@
 {"timestamp": "2022-07-03 20:52:46", "get_devices": {"success": true, "ping": 385, "error": null}, "get_states": {"success": true, "ping": 174, "error": null}}
 {"timestamp": "2022-07-03 21:17:22", "get_devices": {"success": true, "ping": 396, "error": null}, "get_states": {"success": true, "ping": 175, "error": null}}
 {"timestamp": "2022-07-03 21:39:12", "get_devices": {"success": true, "ping": 436, "error": null}, "get_states": {"success": true, "ping": 185, "error": null}}
+{"timestamp": "2022-07-03 21:52:21", "get_devices": {"success": true, "ping": 320, "error": null}, "get_states": {"success": true, "ping": 102, "error": null}}
