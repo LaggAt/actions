@@ -19753,3 +19753,4 @@
 {"timestamp": "2022-08-02 15:22:24", "get_devices": {"success": true, "ping": 105, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
 {"timestamp": "2022-08-02 15:44:46", "get_devices": {"success": true, "ping": 85, "error": null}, "get_states": {"success": true, "ping": 34, "error": null}}
 {"timestamp": "2022-08-02 15:56:32", "get_devices": {"success": true, "ping": 142, "error": null}, "get_states": {"success": true, "ping": 47, "error": null}}
+{"timestamp": "2022-08-02 16:34:35", "get_devices": {"success": true, "ping": 130, "error": null}, "get_states": {"success": true, "ping": 36, "error": null}}
