@@ -20122,3 +20122,4 @@
 {"timestamp": "2022-08-09 17:00:23", "get_devices": {"success": true, "ping": 166, "error": null}, "get_states": {"success": true, "ping": 75, "error": null}}
 {"timestamp": "2022-08-09 17:27:41", "get_devices": {"success": true, "ping": 238, "error": null}, "get_states": {"success": true, "ping": 102, "error": null}}
 {"timestamp": "2022-08-09 17:44:26", "get_devices": {"success": true, "ping": 74, "error": null}, "get_states": {"success": true, "ping": 38, "error": null}}
+{"timestamp": "2022-08-09 17:56:18", "get_devices": {"success": true, "ping": 114, "error": null}, "get_states": {"success": true, "ping": 27, "error": null}}
