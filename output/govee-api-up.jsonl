@@ -20130,3 +20130,4 @@
 {"timestamp": "2022-08-09 19:53:08", "get_devices": {"success": true, "ping": 297, "error": null}, "get_states": {"success": true, "ping": 143, "error": null}}
 {"timestamp": "2022-08-09 20:23:01", "get_devices": {"success": true, "ping": 215, "error": null}, "get_states": {"success": true, "ping": 92, "error": null}}
 {"timestamp": "2022-08-09 20:42:54", "get_devices": {"success": true, "ping": 371, "error": null}, "get_states": {"success": true, "ping": 133, "error": null}}
+{"timestamp": "2022-08-09 20:54:49", "get_devices": {"success": true, "ping": 66, "error": null}, "get_states": {"success": true, "ping": 39, "error": null}}
