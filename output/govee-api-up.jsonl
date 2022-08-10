@@ -20179,3 +20179,4 @@
 {"timestamp": "2022-08-10 17:52:39", "get_devices": {"success": true, "ping": 351, "error": null}, "get_states": {"success": true, "ping": 96, "error": null}}
 {"timestamp": "2022-08-10 18:25:54", "get_devices": {"success": true, "ping": 347, "error": null}, "get_states": {"success": true, "ping": 101, "error": null}}
 {"timestamp": "2022-08-10 18:48:31", "get_devices": {"success": true, "ping": 589, "error": null}, "get_states": {"success": true, "ping": 351, "error": null}}
+{"timestamp": "2022-08-10 19:17:39", "get_devices": {"success": true, "ping": 429, "error": null}, "get_states": {"success": true, "ping": 250, "error": null}}
