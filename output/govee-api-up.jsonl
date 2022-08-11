@@ -20215,3 +20215,4 @@
 {"timestamp": "2022-08-11 10:44:30", "get_devices": {"success": true, "ping": 364, "error": null}, "get_states": {"success": true, "ping": 126, "error": null}}
 {"timestamp": "2022-08-11 10:56:15", "get_devices": {"success": true, "ping": 420, "error": null}, "get_states": {"success": true, "ping": 177, "error": null}}
 {"timestamp": "2022-08-11 11:19:21", "get_devices": {"success": true, "ping": 135, "error": null}, "get_states": {"success": true, "ping": 31, "error": null}}
+{"timestamp": "2022-08-11 11:39:35", "get_devices": {"success": true, "ping": 256, "error": null}, "get_states": {"success": true, "ping": 105, "error": null}}
