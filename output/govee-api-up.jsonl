@@ -20270,3 +20270,4 @@
 {"timestamp": "2022-08-12 11:38:05", "get_devices": {"success": true, "ping": 398, "error": null}, "get_states": {"success": true, "ping": 171, "error": null}}
 {"timestamp": "2022-08-12 11:52:32", "get_devices": {"success": true, "ping": 411, "error": null}, "get_states": {"success": true, "ping": 128, "error": null}}
 {"timestamp": "2022-08-12 12:39:55", "get_devices": {"success": true, "ping": 98, "error": null}, "get_states": {"success": true, "ping": 67, "error": null}}
+{"timestamp": "2022-08-12 13:28:07", "get_devices": {"success": true, "ping": 261, "error": null}, "get_states": {"success": true, "ping": 133, "error": null}}
