@@ -20305,3 +20305,4 @@
 {"timestamp": "2022-08-13 04:58:01", "get_devices": {"success": true, "ping": 405, "error": null}, "get_states": {"success": true, "ping": 109, "error": null}}
 {"timestamp": "2022-08-13 05:21:51", "get_devices": {"success": true, "ping": 213, "error": null}, "get_states": {"success": true, "ping": 97, "error": null}}
 {"timestamp": "2022-08-13 05:39:38", "get_devices": {"success": true, "ping": 406, "error": null}, "get_states": {"success": true, "ping": 308, "error": null}}
+{"timestamp": "2022-08-13 05:52:18", "get_devices": {"success": true, "ping": 127, "error": null}, "get_states": {"success": true, "ping": 43, "error": null}}
