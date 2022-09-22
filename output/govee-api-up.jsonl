@@ -22143,3 +22143,4 @@
 {"timestamp": "2022-09-22 11:42:39", "get_devices": {"success": true, "ping": 126, "error": null}, "get_states": {"success": true, "ping": 33, "error": null}}
 {"timestamp": "2022-09-22 11:54:23", "get_devices": {"success": true, "ping": 156, "error": null}, "get_states": {"success": true, "ping": 148, "error": null}}
 {"timestamp": "2022-09-22 12:48:04", "get_devices": {"success": true, "ping": 199, "error": null}, "get_states": {"success": true, "ping": 90, "error": null}}
+{"timestamp": "2022-09-22 13:52:09", "get_devices": {"success": true, "ping": 272, "error": null}, "get_states": {"success": true, "ping": 105, "error": null}}
