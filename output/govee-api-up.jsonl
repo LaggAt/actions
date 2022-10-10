@@ -22808,3 +22808,4 @@
 {"timestamp": "2022-10-10 06:52:46", "get_devices": {"success": true, "ping": 386, "error": null}, "get_states": {"success": true, "ping": 155, "error": null}}
 {"timestamp": "2022-10-10 07:42:14", "get_devices": {"success": true, "ping": 256, "error": null}, "get_states": {"success": true, "ping": 103, "error": null}}
 {"timestamp": "2022-10-10 08:03:08", "get_devices": {"success": true, "ping": 266, "error": null}, "get_states": {"success": true, "ping": 93, "error": null}}
+{"timestamp": "2022-10-10 08:51:37", "get_devices": {"success": true, "ping": 141, "error": null}, "get_states": {"success": true, "ping": 36, "error": null}}
