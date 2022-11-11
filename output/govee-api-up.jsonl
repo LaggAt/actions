@@ -24133,3 +24133,4 @@
 {"timestamp": "2022-11-11 12:48:25", "get_devices": {"success": true, "ping": 173, "error": null}, "get_states": {"success": true, "ping": 135, "error": null}}
 {"timestamp": "2022-11-11 13:45:53", "get_devices": {"success": true, "ping": 67, "error": null}, "get_states": {"success": true, "ping": 27, "error": null}}
 {"timestamp": "2022-11-11 14:05:22", "get_devices": {"success": true, "ping": 52, "error": null}, "get_states": {"success": true, "ping": 22, "error": null}}
+{"timestamp": "2022-11-11 14:31:49", "get_devices": {"success": true, "ping": 411, "error": null}, "get_states": {"success": true, "ping": 257, "error": null}}
