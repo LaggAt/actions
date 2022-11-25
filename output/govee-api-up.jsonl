@@ -24935,3 +24935,4 @@
 {"timestamp": "2022-11-25 19:15:02", "get_devices": {"success": true, "ping": 415, "error": null}, "get_states": {"success": true, "ping": 165, "error": null}}
 {"timestamp": "2022-11-25 19:26:42", "get_devices": {"success": true, "ping": 195, "error": null}, "get_states": {"success": true, "ping": 165, "error": null}}
 {"timestamp": "2022-11-25 19:38:35", "get_devices": {"success": true, "ping": 83, "error": null}, "get_states": {"success": true, "ping": 28, "error": null}}
+{"timestamp": "2022-11-25 19:52:35", "get_devices": {"success": true, "ping": 357, "error": null}, "get_states": {"success": true, "ping": 154, "error": null}}
