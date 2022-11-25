@@ -24910,3 +24910,4 @@
 {"timestamp": "2022-11-25 09:52:32", "get_devices": {"success": true, "ping": 80, "error": null}, "get_states": {"success": true, "ping": 32, "error": null}}
 {"timestamp": "2022-11-25 10:21:10", "get_devices": {"success": true, "ping": 242, "error": null}, "get_states": {"success": true, "ping": 199, "error": null}}
 {"timestamp": "2022-11-25 10:41:37", "get_devices": {"success": true, "ping": 374, "error": null}, "get_states": {"success": true, "ping": 158, "error": null}}
+{"timestamp": "2022-11-25 10:53:17", "get_devices": {"success": true, "ping": 113, "error": null}, "get_states": {"success": true, "ping": 48, "error": null}}
