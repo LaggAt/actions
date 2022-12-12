@@ -26033,3 +26033,4 @@
 {"timestamp": "2022-12-12 20:18:25", "get_devices": {"success": true, "ping": 250, "error": null}, "get_states": {"success": true, "ping": 89, "error": null}}
 {"timestamp": "2022-12-12 20:38:27", "get_devices": {"success": true, "ping": 217, "error": null}, "get_states": {"success": true, "ping": 100, "error": null}}
 {"timestamp": "2022-12-12 20:52:26", "get_devices": {"success": true, "ping": 65, "error": null}, "get_states": {"success": true, "ping": 31, "error": null}}
+{"timestamp": "2022-12-12 21:16:40", "get_devices": {"success": true, "ping": 395, "error": null}, "get_states": {"success": true, "ping": 176, "error": null}}
