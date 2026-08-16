@@ -95146,3 +95146,4 @@
 {"timestamp": "2026-08-16 15:00:10", "get_devices": {"success": true, "ping": 70, "error": null}, "get_states": {"success": true, "ping": 27, "error": null}}
 {"timestamp": "2026-08-16 15:30:46", "get_devices": {"success": true, "ping": 66, "error": null}, "get_states": {"success": true, "ping": 34, "error": null}}
 {"timestamp": "2026-08-16 15:57:55", "get_devices": {"success": true, "ping": 214, "error": null}, "get_states": {"success": true, "ping": 60, "error": null}}
+{"timestamp": "2026-08-16 16:34:40", "get_devices": {"success": true, "ping": 304, "error": null}, "get_states": {"success": true, "ping": 135, "error": null}}
