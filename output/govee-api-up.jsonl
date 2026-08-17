@@ -95168,3 +95168,4 @@
 {"timestamp": "2026-08-17 07:32:59", "get_devices": {"success": true, "ping": 99, "error": null}, "get_states": {"success": true, "ping": 30, "error": null}}
 {"timestamp": "2026-08-17 08:24:37", "get_devices": {"success": true, "ping": 257, "error": null}, "get_states": {"success": true, "ping": 115, "error": null}}
 {"timestamp": "2026-08-17 09:09:39", "get_devices": {"success": true, "ping": 139, "error": null}, "get_states": {"success": true, "ping": 38, "error": null}}
+{"timestamp": "2026-08-17 09:58:16", "get_devices": {"success": true, "ping": 370, "error": null}, "get_states": {"success": true, "ping": 163, "error": null}}
